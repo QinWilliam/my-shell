@@ -1,6 +1,8 @@
 临时安装：
 pip install 包名 -i https://pypi.tuna.tsinghua.edu.cn/simple
 或者：pip install 包名 -i http://mirrors.aliyun.com/pypi/simple/
+
+###########################################################
 永久安装：
 1. pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
 2.找到 pip 配置文件位置：
